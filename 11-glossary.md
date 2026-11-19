@@ -1,6 +1,6 @@
 # Plain-language glossary
 
-[Start here](README.md) · [Previous: sources](10-reading-and-sources.md)
+[Start here](README.md) · [Previous: sources](10-reading-and-sources.md) · [Next: OpenSearch database](12-opensearch-mvp.md)
 
 | Term | Meaning in this guide |
 | --- | --- |

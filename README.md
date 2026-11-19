@@ -22,7 +22,7 @@ Consider a fictional example: a motor trips; someone suspects overheating; a che
 | About 10 minutes: understand the recommendation | This page → [worked examples](09-worked-examples.md) → the first two milestones in [delivery plan](08-delivery-plan.md) |
 | Understand the book without reading the whole EPUB | [Relevant book summary](01-book-summary.md) |
 | Design what users will see | [Search jobs and experience](02-search-jobs-and-experience.md) → [time and evidence](05-time-evidence-and-relationships.md) |
-| Prepare an implementation | [Resources and metadata](03-resources-and-metadata.md) → [aliases and languages](04-assets-aliases-and-languages.md) → [architecture](06-search-architecture.md) → [evaluation](07-evaluation-and-acceptance.md) |
+| Prepare an implementation | [Resources and metadata](03-resources-and-metadata.md) → [aliases and languages](04-assets-aliases-and-languages.md) → [architecture](06-search-architecture.md) → [evaluation](07-evaluation-and-acceptance.md) → [OpenSearch database](12-opensearch-mvp.md) |
 | Plan the work | [Delivery plan](08-delivery-plan.md), including a first implementation brief |
 | Learn unfamiliar terms or read more | [Glossary](11-glossary.md) · [annotated sources and reading list](10-reading-and-sources.md) |
 
@@ -39,6 +39,7 @@ Consider a fictional example: a motor trips; someone suspects overheating; a che
 9. [Worked examples](09-worked-examples.md) — invented cases showing the whole idea in use.
 10. [Reading and sources](10-reading-and-sources.md) — the supplied book, local evidence, and useful external articles/documentation.
 11. [Glossary](11-glossary.md) — plain-language definitions tied to IntelliFlow.
+12. [The minimal OpenSearch database](12-opensearch-mvp.md) — indices, analyzers, document fields, and write ordering for Milestones B–C.
 
 ## Five decisions to carry into implementation
 
