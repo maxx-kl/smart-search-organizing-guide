@@ -4,7 +4,7 @@
 
 **Proposal:** maintain a small, versioned set of representative questions with explicit relevance judgments and failure conditions. Use it before every consequential retrieval, normalization, or model change.
 
-**Book basis:** EPUB §67, “Evaluating Interactions,” and §33 on description quality. **Local basis:** [search-evolution validation plan](/Users/maksimklimenko/dev/infl/ai-handoff/08-SEARCH-EVOLUTION.md) and [IF-AI-07 evaluation guidance](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md).
+**Book basis:** EPUB §67, “Evaluating Interactions,” and §33 on description quality. **Local basis:** search-evolution validation plan (`ai-handoff/08-SEARCH-EVOLUTION.md`) and IF-AI-07 evaluation guidance (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md`).
 
 ## Evaluate the chain, not just the final answer
 

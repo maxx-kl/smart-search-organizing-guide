@@ -4,7 +4,7 @@
 
 **Recommendation:** modernize search as a sequence of independently testable capabilities. Keep the original stores authoritative; make every search representation rebuildable; add semantic retrieval only when the baseline is measurable.
 
-**Status:** everything described as a target below is a proposal. The existing-system observations come from the dated [current search report](/Users/maksimklimenko/dev/infl/ai-handoff/07-SEARCH-CURRENT.md), [migration proposal](/Users/maksimklimenko/dev/infl/ai-handoff/08-SEARCH-EVOLUTION.md), [data model](/Users/maksimklimenko/dev/infl/ai-handoff/04-DATA-MODEL.md), and [security review](/Users/maksimklimenko/dev/infl/ai-handoff/10-SECURITY-AND-PERMISSIONS.md). No deployed state was checked here.
+**Status:** everything described as a target below is a proposal. The existing-system observations come from the dated current search report (`ai-handoff/07-SEARCH-CURRENT.md`), migration proposal (`ai-handoff/08-SEARCH-EVOLUTION.md`), data model (`ai-handoff/04-DATA-MODEL.md`), and security review (`ai-handoff/10-SECURITY-AND-PERMISSIONS.md`). No deployed state was checked here.
 
 ## What the handoff says already works
 

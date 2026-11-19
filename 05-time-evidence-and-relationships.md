@@ -4,7 +4,7 @@
 
 **Proposal:** Smart Search should help users reconstruct what was reported, when it was known, and what remains uncertain. It should not turn a collection of notes into a falsely tidy repair story.
 
-**Book basis:** EPUB §29, “Resources over Time”; §§37–43, relationships; §67, contextual relevance. **Local basis:** [workflow synthesis](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md), [data model](/Users/maksimklimenko/dev/infl/ai-handoff/04-DATA-MODEL.md), and the [15 October HSE report](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-15-telegram-hse-coordination/executive-report.md). The latter reports that closure, archival, continuing work, and reported physical resolution can diverge. The examples below are invented.
+**Book basis:** EPUB §29, “Resources over Time”; §§37–43, relationships; §67, contextual relevance. **Local basis:** workflow synthesis (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md`), data model (`ai-handoff/04-DATA-MODEL.md`), and the 15 October HSE report (`ai-handoff/2026-10-15-telegram-hse-coordination/executive-report.md`). The latter reports that closure, archival, continuing work, and reported physical resolution can diverge. The examples below are invented.
 
 ## Four clocks that should not be confused
 

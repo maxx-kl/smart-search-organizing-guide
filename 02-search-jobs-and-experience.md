@@ -4,7 +4,7 @@
 
 **Proposal:** keep a familiar search box, useful results, and visible scope. Add assistance where it saves interpretation effort. A conversational answer is one possible output, not the definition of the product.
 
-**Book basis:** EPUB §§13, 22, 54–55, 64, 67, 82. **Local basis:** [current search](/Users/maksimklimenko/dev/infl/ai-handoff/07-SEARCH-CURRENT.md), [owner's search direction](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md), and [workflow synthesis](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md). Findings describe those dated sources; the UX below is proposed.
+**Book basis:** EPUB §§13, 22, 54–55, 64, 67, 82. **Local basis:** current search (`ai-handoff/07-SEARCH-CURRENT.md`), owner's search direction (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md`), and workflow synthesis (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md`). Findings describe those dated sources; the UX below is proposed.
 
 ## Five jobs, five different definitions of a good result
 

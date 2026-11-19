@@ -4,7 +4,7 @@
 
 **Proposal:** use the existing record thread as the first search container, but preserve identifiable events within it. A result can match a small piece of evidence while displaying the larger incident it belongs to.
 
-**Book basis:** EPUB §§3–4, 12, 26–29, 32–33, 37–43, 59. **Local basis:** [domain model](/Users/maksimklimenko/dev/infl/ai-handoff/02-PRODUCT-AND-DOMAIN.md) and [data architecture](/Users/maksimklimenko/dev/infl/ai-handoff/04-DATA-MODEL.md). All field groups below are design proposals, not changes to the shared storage contracts.
+**Book basis:** EPUB §§3–4, 12, 26–29, 32–33, 37–43, 59. **Local basis:** domain model (`ai-handoff/02-PRODUCT-AND-DOMAIN.md`) and data architecture (`ai-handoff/04-DATA-MODEL.md`). All field groups below are design proposals, not changes to the shared storage contracts.
 
 ## Distinguish four things people often call a record
 

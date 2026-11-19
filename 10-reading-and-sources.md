@@ -8,7 +8,7 @@ Prepared 18 October 2026. Web references were checked during this task; document
 
 **Robert J. Glushko, editor, *The Discipline of Organizing: 4th Professional Edition* (2020).** EPUB metadata lists publication on 1 April 2020 and identifies Robert J. Glushko as creator. Individual contributions are attributed where used, including Gracen Brilmyer's CalBug case and Hassan Jannah's data-center case.
 
-- [Supplied EPUB](/Users/maksimklimenko/Downloads/The-Discipline-of-Organizing-4th-Professional-Edition-1588961975.epub)
+- Supplied EPUB: `The-Discipline-of-Organizing-4th-Professional-Edition-1588961975.epub` (local copy, not included here; the online edition is linked below)
 - [Publisher's online edition and contents](https://berkeley.pressbooks.pub/tdo4p/)
 - [Creative Commons BY-NC 4.0 license named by the book](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -30,20 +30,20 @@ The local EPUB, rather than web excerpts, is the primary source for the extended
 
 ## Local IntelliFlow sources
 
-These are dated research sources, not fresh production verification. Absolute links work on this Mac while the folders remain in place.
+These are dated research sources, not fresh production verification. They live in the private IntelliFlow workspace (paths are relative to it) and are not published here.
 
 | Source | How it informs this guide |
 | --- | --- |
-| [00 — Start here](/Users/maksimklimenko/dev/infl/ai-handoff/00-START-HERE.md) | Workspace overview and boundaries of the original investigation |
-| [02 — Product and domain](/Users/maksimklimenko/dev/infl/ai-handoff/02-PRODUCT-AND-DOMAIN.md) | Records, equipment, sub-records, work projections, state changes, and source-field meaning |
-| [04 — Data model](/Users/maksimklimenko/dev/infl/ai-handoff/04-DATA-MODEL.md) | Authoritative stores, change detection, missing historical fields, and dependency invalidation |
-| [07 — Current search](/Users/maksimklimenko/dev/infl/ai-handoff/07-SEARCH-CURRENT.md) | Existing query behavior, parser omissions, index mechanics, UI and compatibility defects |
-| [08 — Search evolution](/Users/maksimklimenko/dev/infl/ai-handoff/08-SEARCH-EVOLUTION.md) | Proposed requirements, engine comparison, migration stages, and golden-query testing |
-| [09 — Ina and AI readiness](/Users/maksimklimenko/dev/infl/ai-handoff/09-INA-AND-AI-READINESS.md) | Potential text/metadata reuse and limitations of the older AI code |
-| [10 — Security and permissions](/Users/maksimklimenko/dev/infl/ai-handoff/10-SECURITY-AND-PERMISSIONS.md) | Source-level access risks, authorization boundary, and privacy implications; deployed state remains unknown |
-| [14 October memory: AI/search direction](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md) | Latest explicit retrieval-first focus, asset alias examples, uncertainty, multilingual goals, and deferred autonomy |
-| [14 October memory: workflows](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md) | Time, counting, outcome, planning, and conversation-layer pitfalls |
-| [15 October HSE executive report](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-15-telegram-hse-coordination/executive-report.md) | Closure and resolution can diverge; duplicate/master links; partial capture and unavailable media |
+| 00 — Start here (`ai-handoff/00-START-HERE.md`) | Workspace overview and boundaries of the original investigation |
+| 02 — Product and domain (`ai-handoff/02-PRODUCT-AND-DOMAIN.md`) | Records, equipment, sub-records, work projections, state changes, and source-field meaning |
+| 04 — Data model (`ai-handoff/04-DATA-MODEL.md`) | Authoritative stores, change detection, missing historical fields, and dependency invalidation |
+| 07 — Current search (`ai-handoff/07-SEARCH-CURRENT.md`) | Existing query behavior, parser omissions, index mechanics, UI and compatibility defects |
+| 08 — Search evolution (`ai-handoff/08-SEARCH-EVOLUTION.md`) | Proposed requirements, engine comparison, migration stages, and golden-query testing |
+| 09 — Ina and AI readiness (`ai-handoff/09-INA-AND-AI-READINESS.md`) | Potential text/metadata reuse and limitations of the older AI code |
+| 10 — Security and permissions (`ai-handoff/10-SECURITY-AND-PERMISSIONS.md`) | Source-level access risks, authorization boundary, and privacy implications; deployed state remains unknown |
+| 14 October memory: AI/search direction (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md`) | Latest explicit retrieval-first focus, asset alias examples, uncertainty, multilingual goals, and deferred autonomy |
+| 14 October memory: workflows (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/03-real-world-workflows.md`) | Time, counting, outcome, planning, and conversation-layer pitfalls |
+| 15 October HSE executive report (`ai-handoff/2026-10-15-telegram-hse-coordination/executive-report.md`) | Closure and resolution can diverge; duplicate/master links; partial capture and unavailable media |
 
 ### Reconcile the sources instead of blending them silently
 

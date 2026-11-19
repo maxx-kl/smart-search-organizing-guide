@@ -4,7 +4,7 @@
 
 **Recommendation:** deliver dependable search in small increments. Make the first milestone a visible improvement people can use, while preparing the evidence needed to choose later techniques.
 
-**Book basis:** EPUB §§70–75, especially separating requirements from implementation and planning for maintenance. **Local basis:** [earlier search roadmap](/Users/maksimklimenko/dev/infl/ai-handoff/08-SEARCH-EVOLUTION.md) and [14 October direction](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md). This plan refines those proposals; it is not an adopted sprint schedule.
+**Book basis:** EPUB §§70–75, especially separating requirements from implementation and planning for maintenance. **Local basis:** earlier search roadmap (`ai-handoff/08-SEARCH-EVOLUTION.md`) and 14 October direction (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md`). This plan refines those proposals; it is not an adopted sprint schedule.
 
 ## Milestone A — Understand and stabilize the baseline
 

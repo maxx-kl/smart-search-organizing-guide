@@ -4,7 +4,7 @@
 
 **Proposal:** provide many routes to the same confirmed identity, while keeping uncertain matches visibly uncertain. Do not solve vocabulary variation by rewriting source records or equating every similar code.
 
-**Book basis:** EPUB §28, “Naming Resources”; §§38–39, semantic and lexical relationships; §§47–48, category design. **Local basis:** [search direction, IF-AI-02 and IF-AI-05](/Users/maksimklimenko/dev/infl/ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md).
+**Book basis:** EPUB §28, “Naming Resources”; §§38–39, semantic and lexical relationships; §§47–48, category design. **Local basis:** search direction, IF-AI-02 and IF-AI-05 (`ai-handoff/2026-10-14-chatgpt-memory-snapshot/intelliflow-memory-2026-10-14/04-ai-search-direction.md`).
 
 ## There are several different problems
 
