@@ -40,6 +40,7 @@ Consider a fictional example: a motor trips; someone suspects overheating; a che
 10. [Reading and sources](10-reading-and-sources.md) — the supplied book, local evidence, and useful external articles/documentation.
 11. [Glossary](11-glossary.md) — plain-language definitions tied to IntelliFlow.
 12. [The minimal OpenSearch database](12-opensearch-mvp.md) — indices, analyzers, document fields, and write ordering for Milestones B–C.
+13. [Analytics from the search index](13-analytics-from-the-search-index.md) — which counts and reports the search index can serve (draft), with measured results and a comparison with BigQuery.
 
 ## Five decisions to carry into implementation
 
